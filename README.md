@@ -22,7 +22,7 @@ Bienvenido/a al repositorio oficial del **Portafolio Web Profesional** de **Yein
 ## 🌐 Vista Previa & Demo
 
 Puedes visitar el sitio web desplegado directamente en **GitHub Pages**:
-👉 **[Ver Portafolio en Vivo](https://karigonzalez.github.io/Portafolio-CV-nivel-tactico-y-liderazgo-operativo/)**
+👉 **[Ver Portafolio en Vivo](https://karigonzalez.github.io/Portafolio-CV-nivel-t-ctico-y-liderazgo-operativoG/)**
 
 ---
 
